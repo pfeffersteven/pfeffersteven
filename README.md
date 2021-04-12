@@ -2,7 +2,6 @@
 
 - 😄   I am self-taught junior full stack developer. 
 - 💾   Currently work with PHP and javascript.
-- 📙   I develop a web app for czech high school students.
 <!--
 **pfeffersteven/pfeffersteven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
