@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- 😄   I am self-taught junior developer. 
 - 💾   Currently working with React.
 <!--
 **pfeffersteven/pfeffersteven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
